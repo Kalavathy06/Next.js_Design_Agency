@@ -5,22 +5,20 @@ import { motion } from "framer-motion";
 import { ArrowUpRight } from "lucide-react";
 
 const projects = [
-  
   {
     title: "Scrapion",
     category: "Scrap Collection & Recycling Management System",
-    image: "/images/Scrapion.png",
+    image: "/images/scrapion.png",
   },
   {
     title: "FlexLife",
     category: "Apartment Rental Platform",
-    image: "/images/FlexLife.png",
+    image: "/images/flexlife.png",
   },
-  
   {
     title: "Fiasite",
     category: "Field Sales Management System",
-    image: "/images/Fiasite.png",
+    image: "/images/fiasite.png",
   },
 ];
 
