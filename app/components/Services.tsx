@@ -38,7 +38,7 @@ export default function Services() {
       className="py-28 px-6 bg-zinc-950"
     >
       <div className="max-w-7xl mx-auto">
-        <h2 className="text-5xl font-bold text-center mb-20">
+        <h2 className="text-4xl font-bold text-center mb-20">
           Our Services
         </h2>
 

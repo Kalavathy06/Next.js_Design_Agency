@@ -8,7 +8,7 @@ const projects = [
   
   {
     title: "Scrapion",
-    category: "Full Stack Development",
+    category: "Scrap Collection & Recycling Management System",
     image: "/images/Scrapion.png",
   },
   {

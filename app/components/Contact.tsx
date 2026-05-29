@@ -171,7 +171,7 @@ export default function Contact() {
 
           
           <div className="flex flex-col md:flex-row md:items-start gap-4 mb-8">
-            <label className="text-base md:text-lg font-medium">
+            <label className="text-base md:text-lg font-medium md:w-[120px]">
               Message
             </label>
 
