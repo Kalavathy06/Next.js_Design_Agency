@@ -36,7 +36,7 @@ export default function Hero() {
         </p>
 
         <div className="mt-10 flex gap-6 justify-center flex-wrap">
-          <button className="px-6 py-3 rounded-full bg-cyan-500 hover:bg-cyan-400 transition flex items-center gap-2">
+          <button className="px-6 py-3 rounded-full bg-cyan-500 hover:bg-cyan-400 transition flex items-center gap-2 cursor-pointer">
             Get Started
             <ArrowRight size={18} />
           </button>
